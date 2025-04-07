@@ -31,3 +31,11 @@ My expertise is primarily focused on mobile application development for iOS, usi
 <p align="center">
   <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielOlivar&count_private=true&theme=radical" alt="DanielOlivar GitHub Stats" />
 </p>
+
+## 🌐 - Find me
+
+[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/intl-es/track/2GxrNKugF82CnoRFbQfzPf?si=885cebb7628c4d41)
+
+
+
+
