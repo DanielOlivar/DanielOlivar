@@ -6,7 +6,7 @@
 ## 🌟 - About me 
 Well, I'm Daniel Olivar, aka Kaneo...
 
-I am a Computer Engineering graduate, 23 years old, and highly motivated to continue growing and learning as a programmer. Throughout my education, I have worked with various programming languages such as Swift, Python, Java, C++, C, HTML, CSS, JavaScript, PHP, Assembly, Node.js, SQL, and more.
+I am 23 years old and a Computer Engineering graduate, highly motivated to continue growing and learning as a programmer. Throughout my education, I have worked with various programming languages such as Swift, Python, Java, C++, C, HTML, CSS, JavaScript, PHP, Assembly, Node.js, SQL, and more.
 
 I have gained hands-on experience with IDEs like Xcode, SQL Server Management Studio, MySQL, PostgreSQL, Visual Studio, Visual Studio Code, NetBeans, and Anaconda.
 
