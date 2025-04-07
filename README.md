@@ -11,6 +11,7 @@
 </a>
 
 <a href="https://github.com/DanielOlivar/Cryptography">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nneji123&repo=Cryptography&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DanielOlivar&repo=Cryptography&theme=tokyonight" />
 </a>
+
 
