@@ -32,7 +32,9 @@ My expertise is primarily focused on mobile application development for iOS, usi
   <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielOlivar&count_private=true&theme=radical" alt="DanielOlivar GitHub Stats" />
 </p>
 <p align="center">
-[![Daniel Olivar's github stats](https://github-readme-stats.vercel.app/api?username=DanielOlivar&count_private=true&show_icons=true&theme=radical)](https://github.com/DanielOlivar)
+  <a href="https://github.com/DanielOlivar">
+    <img src="https://github-readme-stats.vercel.app/api?username=DanielOlivar&count_private=true&show_icons=true&theme=radical" />
+  </a>
 </p>
 
 ## 🌐 - Find me
