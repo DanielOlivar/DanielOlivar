@@ -3,6 +3,14 @@
   <img src="https://github.com/user-attachments/assets/0577fba5-c3b2-4f4c-b8b9-22f60c020006" width="900" height="500" />
 </p>
 
+## 🌟 - About me 
+Well, I'm Daniel Olivar, aka Kaneo...
+
+I am a Computer Engineering graduate, 23 years old, and highly motivated to continue growing and learning as a programmer. Throughout my education, I have worked with various programming languages such as Swift, Python, Java, C++, C, HTML, CSS, JavaScript, PHP, Assembly, Node.js, SQL, and more.
+
+I have gained hands-on experience with IDEs like Xcode, SQL Server Management Studio, MySQL, PostgreSQL, Visual Studio, Visual Studio Code, NetBeans, and Anaconda.
+
+My expertise is primarily focused on mobile application development for iOS, using SwiftUI and UIKit. During my community service, I worked at the iOS Development Lab at the Facultad de Ingeniería, where I developed projects and also taught courses to students and teachers. Additionally, I have completed various programming courses to further enhance my skills.
 
 ## 🚀 - My Most Featured Projects
 
