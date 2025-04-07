@@ -6,11 +6,10 @@
 
 ## Projects
 
-<a href="https://github.com/DanielOlivar/EyeGuard.git">
+<a href="https://github.com/DanielOlivar/EyeGuard">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DanielOlivar&repo=EyeGuard&theme=tokyonight" />
+</a>
 
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Website-Blocker&theme=tokyonight" />
 
 </a>  
 
