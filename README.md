@@ -6,12 +6,6 @@
 
 ## Projects
 
-<a href="https://github.com/DanielOlivar/EyeGuard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DanielOlivar&repo=EyeGuard&theme=tokyonight" />
-</a>
 
-<a href="https://github.com/DanielOlivar/Cryptography">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DanielOlivar&repo=Cryptography&theme=tokyonight" />
-</a>
 
 
