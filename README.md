@@ -42,8 +42,10 @@ My expertise is primarily focused on mobile application development for iOS, usi
 
 ## :headphones: Spotify Playing
 
-[![Programming Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3h55gcQ4pQgal3R0uIZVFC?si=89218c91aa8f4265) 
+[![Programming Music💻](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3h55gcQ4pQgal3R0uIZVFC?si=89218c91aa8f4265) 
 [![Perreque👅](https://img.shields.io/badge/Perreque%20%F0%9F%91%85-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1tMyGOXrH40XlJzTK7Am94?si=bb9662da12984dda)
+[![GYM 💪🏻](https://img.shields.io/badge/GYM%20%F0%9F%92%AA%F0%9F%8F%BD-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/0oN653cp0XglPwtJY3bYjj?si=2ebbbdfe82f4476e)
+[![Driving Chill 🎵](https://img.shields.io/badge/Driving%20Chill%20%F0%9F%8E%B5-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/6Q05AcsO08IFIRqNFtRi7D?si=6dde3231723a4e0b)
 
 [![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/vmt7lpqdatuelp2chw7ur2p2l)
 
