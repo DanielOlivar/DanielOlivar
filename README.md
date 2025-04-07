@@ -4,6 +4,8 @@
 </p>
 
 ## 🌟 - About me 
+<p>
+<b>
 Well, I'm Daniel Olivar, aka Kaneo...
 
 I am 23 years old and a Computer Engineering graduate, highly motivated to continue growing and learning as a programmer. Throughout my education, I have worked with various programming languages such as Swift, Python, Java, C++, C, HTML, CSS, JavaScript, PHP, Assembly, Node.js, SQL, and more.
@@ -12,6 +14,9 @@ I have gained hands-on experience with IDEs like Xcode, SQL Server Management St
 
 My expertise is primarily focused on mobile application development for iOS, using SwiftUI and UIKit. During my community service, I worked at the iOS Development Lab at the Facultad de Ingeniería, where I developed projects and also taught courses to students and teachers. Additionally, I have completed various programming courses to further enhance my skills.
 
+</b>
+</p>
+  
 ## 🚀 - My Most Featured Projects
 
 <a href="https://github.com/DanielOlivar/EyeGuard">
