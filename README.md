@@ -41,6 +41,11 @@ My expertise is primarily focused on mobile application development for iOS, usi
 
 
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif" alt="Dino" />
+</p>
+
+
 
 
 
