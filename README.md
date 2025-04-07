@@ -14,7 +14,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DanielOlivar&repo=Cryptography&theme=tokyonight" />
 </a>
 
-## Languages I've Worked With
+## 💻 - Languages I've Worked With
 <p align="center">
   <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielOlivar&count_private=true&theme=radical" alt="DanielOlivar GitHub Stats" />
 </p>
