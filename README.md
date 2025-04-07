@@ -4,7 +4,7 @@
 ![Daniel Olivar](https://github.com/user-attachments/assets/0577fba5-c3b2-4f4c-b8b9-22f60c020006)
 
 
-## Projects
+## 🚀 - My Most Featured Projects
 
 <a href="https://github.com/DanielOlivar/EyeGuard">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DanielOlivar&repo=EyeGuard&theme=tokyonight" />
