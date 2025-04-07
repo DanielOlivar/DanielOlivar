@@ -18,6 +18,3 @@
 <p align="center">
   <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielOlivar&count_private=true&theme=radical" alt="DanielOlivar GitHub Stats" />
 </p>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielOlivar&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-
