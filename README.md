@@ -6,11 +6,11 @@
 
 ## Projects
 
-<a href="https://github.com/Nneji123/Website-Blocker">
+<a href="https://github.com/DanielOlivar/EyeGuard.git">
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-  <img align="center" src="  <img align="center" src="https://github.com/DanielOlivar/EyeGuard.git" />" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Website-Blocker&theme=tokyonight" />
 
 </a>  
 
@@ -20,4 +20,4 @@
 
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Alien-Shooter&theme=tokyonight" />
 
-</a> 
+</a> https://github.com/DanielOlivar/EyeGuard.git
