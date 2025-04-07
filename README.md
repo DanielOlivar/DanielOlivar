@@ -34,8 +34,7 @@ My expertise is primarily focused on mobile application development for iOS, usi
 
 ## 🌐 - Find me
 
-[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/intl-es/track/2GxrNKugF82CnoRFbQfzPf?si=885cebb7628c4d41)
-
+[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf)
 
 
 
