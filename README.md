@@ -48,7 +48,7 @@ My expertise is primarily focused on mobile application development for iOS, usi
 [![Driving Chill 🎵](https://img.shields.io/badge/Driving%20Chill%20%F0%9F%8E%B5-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/6Q05AcsO08IFIRqNFtRi7D?si=6dde3231723a4e0b)
 
 
-[![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/vmt7lpqdatuelp2chw7ur2p2l)
+[![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/31akldji5rd6vknkaxfyoztrn2ei?si=63e8b91fcccd43eb)
 
 
 <p align="center">
