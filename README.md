@@ -16,7 +16,10 @@ I am currently working as a Junior iOS Developer since October 2024. In addition
 
 </b>
 </p>
-  
+
+## 🛠️ - My Skills Include
+	<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+
 ## 🚀 - My Most Featured Projects
 
 <a href="https://github.com/DanielOlivar/EyeGuard">
@@ -27,7 +30,7 @@ I am currently working as a Junior iOS Developer since October 2024. In addition
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DanielOlivar&repo=Cryptography&theme=tokyonight" />
 </a>
 
-## 💻 - Languages I've Worked With
+## 💻 - GitHub Stats
 <p align="center">
   <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielOlivar&count_private=true&theme=radical" alt="DanielOlivar GitHub Stats" />
 </p>
