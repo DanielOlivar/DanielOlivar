@@ -13,7 +13,8 @@ I am 23 years old and a Computer Engineering graduate, highly motivated to conti
 My expertise is primarily focused on mobile application development for iOS, using SwiftUI and UIKit. During my community service, I worked at the iOS Development Lab at the Facultad de Ingeniería, where I developed projects and also taught courses to students and teachers. I also participated in several hackathons organized by the lab, where I collaborated on innovative solutions and strengthened my teamwork and problem-solving skills. Additionally, I have completed various programming courses to further enhance my skills.
 
 I am currently working as a Junior iOS Developer since October 2024. In addition to my experience at the iOS Development Lab, I have over two years of programming experience in Swift, which has allowed me to build strong skills in iOS mobile app development.
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+<img src="https://img.shields.io/badge/GYM%20%F0%9F%92%AA%F0%9F%8F%BD-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white" />
 </b>
 </p>
 
@@ -102,22 +103,14 @@ I am currently working as a Junior iOS Developer since October 2024. In addition
     <img src="https://img.shields.io/badge/Perreque%20%F0%9F%91%85-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
 </p>
-
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <p align="center">
   <a href="https://open.spotify.com/playlist/0oN653cp0XglPwtJY3bYjj?si=2ebbbdfe82f4476e">
-    <img src="https://img.shields.io/badge/GYM%20%F0%9F%92%AA%F0%9F%8F%BD-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
   <a href="https://open.spotify.com/playlist/6Q05AcsO08IFIRqNFtRi7D?si=6dde3231723a4e0b">
     <img src="https://img.shields.io/badge/Driving%20Chill%20%F0%9F%8E%B5-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
 </p>
-
- 
- 
-
-
-
-<!-- [![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/31akldji5rd6vknkaxfyoztrn2ei?si=63e8b91fcccd43eb) -->
 
 
 <p align="center">
