@@ -65,6 +65,16 @@ I am currently working as a Junior iOS Developer since October 2024. In addition
 
 ## 🚀 - My Most Featured Projects
 
+<div>
+  <p>
+    <a href="https://github.com/DanielOlivar/EyeGuard">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielOlivar&repo=EyeGuard&theme=tokyonight" alt="EyeGuard Repo" />
+    </a>
+    <a href="https://github.com/DanielOlivar/Cryptography">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielOlivar&repo=Cryptography&theme=tokyonight" alt="Cryptography Repo" />
+    </a>
+  </p>
+</div>
 
 
 
