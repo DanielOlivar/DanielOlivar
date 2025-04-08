@@ -14,7 +14,7 @@ My expertise is primarily focused on mobile application development for iOS, usi
 
 I am currently working as a Junior iOS Developer since October 2024. In addition to my experience at the iOS Development Lab, I have over two years of programming experience in Swift, which has allowed me to build strong skills in iOS mobile app development.
 
-<img src="https://img.shields.io/badge/GYM%20%F0%9F%92%AA%F0%9F%8F%BD-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white" />
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 200px></picture>
 </b>
 </p>
 
@@ -61,7 +61,6 @@ I am currently working as a Junior iOS Developer since October 2024. In addition
 	<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 	<img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
 	<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
-	
 </span>	
 
 ## 🚀 - My Most Featured Projects
@@ -77,22 +76,11 @@ I am currently working as a Junior iOS Developer since October 2024. In addition
   </p>
 </div>
 
-
-
-
-
 ## 💻 - GitHub Stats
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielOlivar&show_icons=true&locale=en&layout=compact&cache_bust=1" alt="DanielOlivar" />
-
   <img src="https://github-readme-stats.vercel.app/api?username=DanielOlivar&show_icons=true&locale=en&cache_bust=1" alt="DanielOlivar" width="410" />
-
 </div>
-
-
-
-
 
 ## :headphones: Spotify Playing
 <p align="center">
@@ -103,9 +91,10 @@ I am currently working as a Junior iOS Developer since October 2024. In addition
     <img src="https://img.shields.io/badge/Perreque%20%F0%9F%91%85-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
 </p>
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
 <p align="center">
   <a href="https://open.spotify.com/playlist/0oN653cp0XglPwtJY3bYjj?si=2ebbbdfe82f4476e">
+    <img src="https://img.shields.io/badge/GYM%20%F0%9F%92%AA%F0%9F%8F%BD-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
   <a href="https://open.spotify.com/playlist/6Q05AcsO08IFIRqNFtRi7D?si=6dde3231723a4e0b">
     <img src="https://img.shields.io/badge/Driving%20Chill%20%F0%9F%8E%B5-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white" />
@@ -113,14 +102,9 @@ I am currently working as a Junior iOS Developer since October 2024. In addition
 </p>
 
 
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif" alt="Dino" />
 </p>
-
-
-
-
-
-
 
 
