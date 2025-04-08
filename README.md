@@ -68,13 +68,14 @@ I am currently working as a Junior iOS Developer since October 2024. In addition
 <div>
   <p>
     <a href="https://github.com/DanielOlivar/EyeGuard">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielOlivar&repo=EyeGuard" alt="EyeGuard" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielOlivar&repo=EyeGuard&cache_bust=1" alt="EyeGuard Repo" />
     </a>
     <a href="https://github.com/DanielOlivar/Cryptography">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielOlivar&repo=Cryptography" alt="Cryptography" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielOlivar&repo=Cryptography&cache_bust=1" alt="Cryptography Repo" />
     </a>
   </p>
 </div>
+
 
 
 
