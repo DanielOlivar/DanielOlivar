@@ -65,24 +65,19 @@ I am currently working as a Junior iOS Developer since October 2024. In addition
 
 ## 🚀 - My Most Featured Projects
 
-<a href="https://github.com/DanielOlivar/EyeGuard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DanielOlivar&repo=EyeGuard&theme=tokyonight" />
-</a>
 
-<a href="https://github.com/DanielOlivar/Cryptography">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DanielOlivar&repo=Cryptography&theme=tokyonight" />
-</a>
 
 
 ## 💻 - GitHub Stats
-<p align="center">
-  <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielOlivar&count_private=true&theme=radical" alt="DanielOlivar GitHub Stats" />
-</p>
-<p align="center">
-  <a href="https://github.com/DanielOlivar">
-    <img src="https://github-readme-stats.vercel.app/api?username=DanielOlivar&count_private=true&show_icons=true&theme=radical" />
-  </a>
-</p>
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielOlivar&show_icons=true&locale=en&layout=compact" alt="DanielOlivar" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=DanielOlivar&show_icons=true&locale=en" alt="DanielOlivar" width="410" />
+
+</div>
+
+
 
 
 ## :headphones: Spotify Playing
@@ -91,6 +86,10 @@ I am currently working as a Junior iOS Developer since October 2024. In addition
 [![Perreque👅](https://img.shields.io/badge/Perreque%20%F0%9F%91%85-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1tMyGOXrH40XlJzTK7Am94?si=bb9662da12984dda)
 [![GYM 💪🏻](https://img.shields.io/badge/GYM%20%F0%9F%92%AA%F0%9F%8F%BD-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/0oN653cp0XglPwtJY3bYjj?si=2ebbbdfe82f4476e)
 [![Driving Chill 🎵](https://img.shields.io/badge/Driving%20Chill%20%F0%9F%8E%B5-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/6Q05AcsO08IFIRqNFtRi7D?si=6dde3231723a4e0b)
+
+ 
+ 
+
 
 
 <!-- [![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/31akldji5rd6vknkaxfyoztrn2ei?si=63e8b91fcccd43eb) -->
