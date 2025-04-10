@@ -68,10 +68,10 @@ I am currently working as a Junior iOS Developer since October 2024. In addition
 <div>
   <p align="center">
     <a href="https://github.com/DanielOlivar/EyeGuard">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielOlivar&repo=EyeGuard&cache_bust=1" alt="EyeGuard Repo" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielOlivar&repo=EyeGuard&cache_bust=2" alt="EyeGuard Repo" />
     </a>
     <a href="https://github.com/DanielOlivar/Cryptography">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielOlivar&repo=Cryptography&cache_bust=2" alt="Cryptography Repo" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielOlivar&repo=Cryptography&cache_bust=1" alt="Cryptography Repo" />
     </a>
   </p>
 </div>
@@ -79,8 +79,8 @@ I am currently working as a Junior iOS Developer since October 2024. In addition
 ## 💻 - GitHub Stats
 <p align="center">
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielOlivar&show_icons=true&locale=en&layout=compact&cache_bust=1" alt="DanielOlivar" />
-  <img src="https://github-readme-stats.vercel.app/api?username=DanielOlivar&show_icons=true&locale=en&cache_bust=1" alt="DanielOlivar" width="410" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielOlivar&show_icons=true&locale=en&layout=compact&cache_bust=2" alt="DanielOlivar" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DanielOlivar&show_icons=true&locale=en&cache_bust=2" alt="DanielOlivar" width="410" />
 </div
 </p>
 
