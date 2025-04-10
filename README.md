@@ -14,7 +14,7 @@ My expertise is primarily focused on mobile application development for iOS, usi
 
 I am currently working as a Junior iOS Developer since October 2024. In addition to my experience at the iOS Development Lab, I have over two years of programming experience in Swift, which has allowed me to build strong skills in iOS mobile app development.
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 200px></picture>
+<!-- <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 200px></picture> -->
 </b>
 </p>
 
