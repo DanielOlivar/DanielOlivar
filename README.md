@@ -79,7 +79,7 @@ I am currently working as a Junior iOS Developer since October 2024. In addition
 ## 💻 - GitHub Stats
 <p align="center">
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielOlivar&show_icons=true&locale=en&layout=compact&cache_bust=2" alt="DanielOlivar" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielOlivar&show_icons=true&locale=en&layout=compact&cache_bust=1" alt="DanielOlivar" />
   <img src="https://github-readme-stats.vercel.app/api?username=DanielOlivar&show_icons=true&locale=en&cache_bust=2" alt="DanielOlivar" width="410" />
 </div
 </p>
