@@ -8,7 +8,7 @@
 <b>
 Well, I'm Daniel Olivar, aka Kaneo...
 
-I am 23 years old and a Computer Engineering graduate, highly motivated to continue growing and learning as a programmer. 
+I am 24 years old and a Computer Engineering graduate, highly motivated to continue growing and learning as a programmer. 
 
 My expertise is primarily focused on mobile application development for iOS, using SwiftUI and UIKit. During my community service, I worked at the iOS Development Lab at the Facultad de Ingeniería, where I developed projects and also taught courses to students and teachers. I also participated in several hackathons organized by the lab, where I collaborated on innovative solutions and strengthened my teamwork and problem-solving skills. Additionally, I have completed various programming courses to further enhance my skills.
 
